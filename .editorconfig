@@ -1,0 +1,12 @@
+#[采用的相对路径以这个文件开始]
+root = true
+
+#匹配所有文件
+#缩进采用tab、大小为4、编码utf-8、删除行尾空格、最后一行是空白行
+[*]
+indent_style = tab
+indent_size = 2
+charset = utf-8
+end_of_line = lf
+trim_trailing_whitespace = true
+insert_final_newline = true
